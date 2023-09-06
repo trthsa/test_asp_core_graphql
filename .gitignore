@@ -1,0 +1,4 @@
+# Ignore the bin and obj folders
+bin/
+obj/
+.env
