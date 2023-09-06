@@ -25,3 +25,11 @@
    ```shell
    dotnet ef database update
    ```
+
+5. Run to start server:
+
+   ```shell
+   dotnet run
+   ```
+
+6. Open browser and go to http://localhost:7155/graphql
